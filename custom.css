@@ -1,9 +1,9 @@
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #000;
+        background-color: #262626;
         color: white;
     }
     .text-muted {
-        color: #929292;
+        color: #adadad;
     }
 }
