@@ -7,3 +7,6 @@
         color: #adadad;
     }
 }
+.jumbotron {
+	background-color: inherit;
+}
